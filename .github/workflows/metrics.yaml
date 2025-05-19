@@ -7,6 +7,10 @@ on:
 jobs:
   github-metrics-light:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -34,6 +38,10 @@ jobs:
   
   github-metrics-heavy:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:

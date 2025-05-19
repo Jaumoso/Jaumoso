@@ -9,7 +9,6 @@
 <p align="center">
   <!-- Monospace Font -->
   <samp>
-    <a href="https://profile.jaumoso.ovh">link hub</a> .
-    <a href="./metrics.md">metrics</a>
+    <a href="./metrics.md">GitHub Metrics</a>
   </samp>
 </p>

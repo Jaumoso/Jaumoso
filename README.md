@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Jaumoso&style=for-the-badge)
 <p align="center">
-  <a href="https://github.com/yourusername/yourrepo">https://github.com/yourusername/yourrepo</a>
+  <a href="https://github.com/yourusername/yourrepo"></a>
 </p>
 <p align="center">
   <!-- Monospace Font -->

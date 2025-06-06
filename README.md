@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on a personal project to keep track of all the games I own on all different platforms and stores. 🌱 Learning more about NestJS, Angular, MongoDB and the IGDB API.
 
+![](https://komarev.com/ghpvc/?username=Jaumoso&style=for-the-badge)
 <p align="center">
   <!-- Monospace Font -->
   <samp>

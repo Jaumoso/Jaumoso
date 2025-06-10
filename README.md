@@ -6,7 +6,6 @@
 
 - 🔭 Currently working on my home server.
 
-![](https://komarev.com/ghpvc/?username=Jaumoso&style=for-the-badge)
 <p align="center">
   <!-- Monospace Font -->
   <samp>

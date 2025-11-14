@@ -1,4 +1,4 @@
-👋 Hello world! Junior DevOps and Developer here, on a mission to automate, optimize, and learn the DevOps universe one line of code at a time. 🚀
+👋 Hello world! DevOps and Developer here, on a mission to automate, optimize, and learn the DevOps universe one line of code at a time. 🚀
 
 🛠️ Passionate about building and tinkering with personal projects, and always on the lookout for new tools and technologies to make my life easier.
 

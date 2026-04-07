@@ -6,9 +6,8 @@
 
 - 🔭 Currently working on my home server.
 
-<p align="center">
-  <!-- Monospace Font -->
+<!--<p align="center">
   <samp>
     <a href="./metrics.md">GitHub Metrics</a>
   </samp>
-</p>
+</p>-->

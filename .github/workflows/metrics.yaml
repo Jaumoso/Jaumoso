@@ -4,6 +4,8 @@ on:
   # schedule: [{cron: "0 0 1 * *"}]
   workflow_dispatch:
   push:
+    paths:
+      - .github/workflows/metrics.yaml
 jobs:
   github-metrics-light:
     runs-on: ubuntu-latest
@@ -73,6 +75,8 @@ jobs:
           plugin_followup_sections: repositories, user
           
           plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_lines_delay: 30
           
           plugin_activity: yes
           

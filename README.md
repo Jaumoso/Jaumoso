@@ -42,4 +42,7 @@ flowchart LR
 - Kalenda: user guide and production hardening
 - Rewriting my homelab rebuild automation (Ansible), so the server can be rebuilt from scratch → [roadmap](https://jaumoso.github.io/portfolio/roadmap/)
 
-<p align="center"><samp><a href="./metrics.md">GitHub metrics</a> · <a href="https://jaumoso.github.io/portfolio/">Portfolio</a></samp></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaumoso/Jaumoso/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jaumoso/Jaumoso/output/snake.svg" />
+</picture>

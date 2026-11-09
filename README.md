@@ -19,8 +19,8 @@ flowchart LR
 ```
 
 <!-- HOMELAB:START -->
-- 📦 **56** services running as Docker Compose stacks
-- 🧪 **64** more tried and retired (configs kept)
+- 📦 **50** services running as Docker Compose stacks
+- 🧪 **69** more tried and retired (configs kept)
 - 🚀 **4** services built by me
 <!-- HOMELAB:END -->
 
